@@ -1,2 +1,3 @@
-# AI-Based-Smart-Child-Monitoring-System-for-Orphanages
-AI-based smart child monitoring system for orphanages that tracks health, safety, and emotions. It uses emotion detection, fall detection, real-time alerts, and a dashboard. Integrated with Edge AI, Federated Learning, Blockchain, and Explainable AI for low latency, transparency, privacy, and secure data management.
+👧 AI-Based Smart Child Monitoring System
+
+A real-time child safety system using **MobileNet** for facial emotion detection, **Grad-CAM** for visual explainability, **GPS simulation** for location tracking, and a **Flask REST API** layer for remote access — with a **Streamlit dashboard** for caregivers.
